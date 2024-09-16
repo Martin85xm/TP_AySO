@@ -1,0 +1,232 @@
+ls -l
+pwd
+ls -l
+ls -l /home/vagrant/repogit/
+repogit
+pwd
+ls -l repogit
+ls -l repogit/UTN-FRA_SO_onBording/
+ls -l ../
+pwd
+cd reṕgit
+cd repogit
+pwd
+cd..
+ls -l ../
+pwd
+cd repogit
+ls -l ../
+pwd
+cd..
+cd
+pwd
+echo $HOME
+cd repogit
+pwd
+cd vagrant
+cd.. vagrant
+cd ..vagrant
+cd
+/home/vagrant/repogit
+pwd
+cd repogit
+ls la
+ls
+cd UTN-FRA_SO_onBording/
+pwd
+ls -l
+pwd
+ls
+cd
+ls -l /boot/
+pwd
+poweroff
+power off
+ls -l
+cd repogit
+pws
+pwd
+cd ../
+pwd
+cd ../
+pwd
+cd vagrant
+pwd
+cd repogit
+cd UTN-FRA_SO_onBording/
+pwd
+ls -l
+cd ../
+ls -l
+ls la
+ll
+cd ../
+pwd
+cd repogit/
+ls -l
+cd TP_AySO/
+git status
+ls -l
+git commit -m "add: primer commit"
+git status
+git push
+pwd
+ls -l
+cat /etc/os-release
+man grep
+grep -i Home_url /etc/os-release
+whoami
+pwd
+history
+git status
+history
+id
+cat/proc/cpuinfo
+lscpu
+history -a
+pwd
+echo "Usuario=$(whoami)>datos_usuario.txt
+ls -l
+exit
+clear
+
+
+ls -l
+cat un_archivo 
+pwd
+ls -l
+whoami
+echo "Usuario=$(whoami)>datos_usuario.txt
+hola
+git status
+
+cat datos_usuario.txt
+ll
+echo "usuario:datos_usuario.txt"
+ls -l
+cat datos_usuario.txt
+ls -l
+echo datos_usuario.txt
+ls -l
+touch datos_usuario.txt
+ls -l
+echo "Usuario=$(whoami)">datos_usuario.txt
+cat datos_usuario.txt
+ls -l
+git add datos_usuario.txt
+git status
+git commit -m "add: agregado 1er ejercicio sobre datos_usuario.txt"
+git status
+git push
+grep "model name" | tail -n1
+grep "model name"
+pwd
+ls -l
+cat datos_usuario.txt
+cat /proc/cpuinfo
+cat /proc/cpuinfo | grep -i model
+cat /proc/cpuinfo | grep -i model name
+cat /proc/cpuinfo | grep -i "model name"
+cat /proc/cpuinfo | grep -i "model name" | -n1
+cat /proc/cpuinfo | grep -i "model name"
+cat /proc/cpuinfo | grep -i "model name" | tail -n1
+datos_usuario.txt cat /proc/cpuinfo | grep -i "model name" | tail -n1
+cat /proc/cpuinfo | grep -i "model name" | tail -n1
+echo cat /proc/cpuinfo | grep -i "model name" | tail -n1
+datos_usuario.txt<<<cat /proc/cpuinfo | grep -i "model name" | tail -n1
+ls -l
+cat datos_usuario.txt
+echo $(cat /proc/cpuinfo | grep -i "model name" | tail -n1)
+datos_usuario.txt $(cat /proc/cpuinfo | grep -i "model name" | tail -n1)
+datos_usuario.txt <<<$(cat /proc/cpuinfo | grep -i "model name" | tail -n1)
+datos_usuario.txt <<< cat /proc/cpuinfo | grep -i "model name" | tail -n1
+echo $(cat /proc/cpuinfo | grep -i "model name" | tail -n1)
+(cat /proc/cpuinfo | grep -i "model name" | tail -n1)>>>datos_usuario.txt
+(cat /proc/cpuinfo | grep -i "model name" | tail -n1)>>datos_usuario.txt
+cat datos_usuario.txt
+git add datos_usuario.txt
+git status
+git commit -m "feat: Añadiendo información de cpu"
+git status
+git push
+ls -l
+cat datos_usuario.txt
+touch lista_ordenada
+ls -l
+[200~awk -F: '$7 != "/sbin/nologin" && $7 != "/usr/sbin/nologin"' /etc/passwd | sort -t: -k7 | head -n 10 > lista_ordenada
+awk -F: '$7 != "/sbin/nologin" && $7 != "/usr/sbin/nologin"' /etc/passwd | sort -t: -k7 | head -n 10 > lista_ordenada
+cat lista_ordenada
+ls -l
+cat lista ordenada
+cat lista_ordenada
+git add lista_ordenada
+git status
+git commit -m "ADD: Listado de usuarios ordenada"
+git push
+man dump
+man "dump"
+man "dump traffic"
+man dump traffic
+man -k dump
+man -k dump traffic
+man -k dump
+pwd
+man man
+man -k dump
+man tcpdump
+echo "tcpdump" > comando_dumpt_net
+ls -l
+cat comando_dumpt_net
+git add comando_dumpt_net
+git status
+git commit -m "ADD: Comando para capturar y analizar el tráfico de red"
+git push
+cat<<EOF >>README.md
+Alumno: Martín Magaldi
+División: 313
+Turno: Noche
+EOF
+
+ls -l
+cat readme.md
+cat README.md
+git add README.md
+git commit
+git status
+git commit -m "ADD: Información del alumno al README.md"
+git push
+cat README.md
+cat << EOF >> README.md
+
+Alumno: Martín Magaldi
+División: 313
+Turno: Noche
+EOF
+
+cat README.md
+cat << EOF >> README.md
+
+EOF
+
+cat README.md
+nano README.md
+cat README.md
+git add README.md
+git commit -m "ADD:Información del alumno"
+git push
+pwd
+cd /home/vagrant/repogit/TP_Ayso
+/home/vagrant/repogit/TP_AySO
+$HOME/.bash_history
+history -a
+pwd
+cd repogit/UTN-FRA_SO_onBording/
+ls -l
+cd repogit
+cd.. repogit
+cd ../
+cd TP_AySO/
+ls -l
+cat README.md
+history
+history -a
